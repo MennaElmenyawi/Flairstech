@@ -1,5 +1,5 @@
 # Flairstech
-It's an object-oriented automated script to test registeration page.
+It's an object-oriented automated script to test adding item to cart.
 
 # Files
 Android App Testing with Katalon Studio
